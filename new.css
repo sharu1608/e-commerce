@@ -935,7 +935,7 @@ a.text-hover:focus:after {
 }
 
 #modallogin .modal-content input.text-input {
-  width: 100%;
+  width: 30%;
   height: 50px;
   background: none;
   border: 1px solid var(--gray-color-300);
